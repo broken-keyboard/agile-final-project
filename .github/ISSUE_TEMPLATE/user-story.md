@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: Template to fill in the User Story (=one task on the kanban)
+about: Template to fill in the User Story (=one issue on the kanban)
 title: ''
 labels: ''
 assignees: ''
