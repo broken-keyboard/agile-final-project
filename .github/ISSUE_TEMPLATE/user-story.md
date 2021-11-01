@@ -11,7 +11,7 @@ assignees: ''
 ** I need **
 ** So that **
 
-### Assumprions and details:
+### Assumptions and details:
 
 ### Acceptance Criteria:
 ```gerkhin
