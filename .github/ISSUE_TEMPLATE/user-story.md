@@ -1,21 +1,23 @@
 ---
 name: User Story
-about: Template to fill in the User Story (=one issue on the kanban)
+about: Template to describe an artefact's functionality as needed for a user
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-** As a **
-** I need **
-** So that **
-
-### Assumptions and details:
-
-### Acceptance Criteria:
-```gerkhin
-Given that
-When
-Then
-```
+**As a** [role]  
+ **I need** [function]  
+ **So that** [benefit]  
+   
+ ### Details and Assumptions
+ * [document what you know]
+   
+ ### Acceptance Criteria  
+   
+ ```gherkin
+ Given [some context]
+ When [certain action is taken]
+ Then [the outcome of action is observed]
+ ```
